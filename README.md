@@ -3,6 +3,10 @@
 ## Screen Shots
 These are in the assets folder.
 
+Updated 120220: Only the README.md file was updated, the code is the same.
+Worked with Menuka on some parts of the js code. 
+
+
 # 03 JavaScript: Password Generator
 
 ## Your Task

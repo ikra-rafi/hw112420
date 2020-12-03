@@ -23,7 +23,7 @@ var userInput = [];
 caps [1]
 //Questions, defining variables with prompt and confirm
 var characterCount = prompt("Please choose your password between 8 to 128 characters");
-if (characterCount < 8 || characterCount > 128) { characterCount = prompt ("Please choose your password between 8 to 128 characters. Thank you")};
+if (characterCount < 8 || characterCount > 128) { characterCount = prompt ("Please choose your password between 8 to 128 characters. Please confirm. Thank you")};
 var numbers = confirm ("Would you like numbers in your password?");
 var uc = confirm ("Would you like uppercase characters in your password?");
 var lc = confirm ("Would you like lowercase characters in your password?");
